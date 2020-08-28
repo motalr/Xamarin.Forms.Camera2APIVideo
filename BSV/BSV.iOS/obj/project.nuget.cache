@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjQRLx2cR/Jt9QxxSSpTR5GJNjCS9QP8r6t5AyQ5A4tvcn2mRE8jl48HdbYO/3tZ8GVM88DvloaI2FWKibopsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOverflowRyan\\source\\repos\\BSV\\BSV\\BSV.iOS\\BSV.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

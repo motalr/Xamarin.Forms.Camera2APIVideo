@@ -1,0 +1,15 @@
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\bin\Debug\netstandard2.0\BSV.deps.json
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\bin\Debug\netstandard2.0\BSV.dll
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\bin\Debug\netstandard2.0\ref\BSV.dll
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\bin\Debug\netstandard2.0\BSV.pdb
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\Views\CameraViewPage.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.AssemblyInfoInputs.cache
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.AssemblyInfo.cs
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.csproj.CoreCompileInputs.cache
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.dll
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\ref\BSV.dll
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.pdb
+C:\Users\JOverflowRyan\source\repos\BSV\BSV\BSV\obj\Debug\netstandard2.0\BSV.csprojAssemblyReference.cache

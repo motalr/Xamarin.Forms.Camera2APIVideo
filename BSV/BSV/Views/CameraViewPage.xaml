@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="BSV.Views.CameraViewPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cameraView="clr-namespace:BSV.Control"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout>
+            <cameraView:CameraView x:Name="CameraView"
+                                   Camera="Rear"
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="FillAndExpand" />
+            <Button Clicked="Start_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    Text="Start" />
+            <Button Clicked="Stop_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    Text="Stop" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
